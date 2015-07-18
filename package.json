@@ -1,0 +1,35 @@
+{
+  "name": "micua",
+  "version": "0.0.1",
+  "description": "micua node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "iceStone"
+  },
+  "license": "ISC",
+  "_id": "micua@0.0.1",
+  "_shasum": "55f8866510a75738c51bd744e6b82a427f2c3569",
+  "_from": "micua@*",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "icestone",
+    "email": "ice@wedn.net"
+  },
+  "dist": {
+    "shasum": "55f8866510a75738c51bd744e6b82a427f2c3569",
+    "tarball": "http://registry.npmjs.org/micua/-/micua-0.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "icestone",
+      "email": "ice@wedn.net"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/micua/-/micua-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
